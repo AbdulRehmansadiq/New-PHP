@@ -30,7 +30,7 @@
             if($usernumbersplit[0] == $code){
                 echo 'your ufone num'." ".$usernumbersplit[0];
             }
-        }
+        }.
     }
     ?>
   </body>
